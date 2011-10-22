@@ -1,0 +1,14 @@
+IF srv_rerror_rate = zero THEN duration = zero,one+,ten+
+IF serror_rate = zero THEN same_srv_rate = oneHundred,50-74,25-49
+IF same_srv_rate = oneHundred THEN srv_rerror_rate = zero
+IF diff_srv_rate = zero THEN duration = zero,one+,ten+
+IF duration = zero THEN srv_serror_rate = zero,25-49,1-24
+IF rerror_rate = zero THEN srv_rerror_rate = zero
+IF srv_serror_rate = zero THEN srv_rerror_rate = zero
+IF protocol_type = tcp THEN duration = zero,one+,ten+
+IF srv_diff_host_rate = zero THEN srv_rerror_rate = zero
+IF count = one+ THEN serror_rate = zero,25-49
+IF srv_count = one+ THEN srv_serror_rate = zero,25-49
+IF srv_count = ten+ THEN srv_serror_rate = zero,1-24
+IF count = ten+ THEN serror_rate = zero,1-24
+IF srv_diff_host_rate = 1-24 THEN srv_serror_rate = zero

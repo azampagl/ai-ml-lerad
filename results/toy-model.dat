@@ -1,0 +1,4 @@
+{'antecedent': {2: 'heavy'}, 'bindings': 5, 'consequent': (0, ['green', 'red'])}
+{'antecedent': {2: 'light'}, 'bindings': 4, 'consequent': (0, ['yellow'])}
+{'antecedent': {0: 'green'}, 'bindings': 2, 'consequent': (2, ['heavy'])}
+{'antecedent': {1: 'small'}, 'bindings': 2, 'consequent': (2, ['heavy'])}

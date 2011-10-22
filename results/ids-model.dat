@@ -1,0 +1,14 @@
+{'antecedent': {7: 'zero'}, 'bindings': 114, 'consequent': (0, ['zero', 'one+', 'ten+'])}
+{'antecedent': {4: 'zero'}, 'bindings': 112, 'consequent': (8, ['oneHundred', '50-74', '25-49'])}
+{'antecedent': {8: 'oneHundred'}, 'bindings': 111, 'consequent': (7, ['zero'])}
+{'antecedent': {9: 'zero'}, 'bindings': 111, 'consequent': (0, ['zero', 'one+', 'ten+'])}
+{'antecedent': {0: 'zero'}, 'bindings': 112, 'consequent': (5, ['zero', '25-49', '1-24'])}
+{'antecedent': {6: 'zero'}, 'bindings': 114, 'consequent': (7, ['zero'])}
+{'antecedent': {5: 'zero'}, 'bindings': 112, 'consequent': (7, ['zero'])}
+{'antecedent': {1: 'tcp'}, 'bindings': 110, 'consequent': (0, ['zero', 'one+', 'ten+'])}
+{'antecedent': {10: 'zero'}, 'bindings': 88, 'consequent': (7, ['zero'])}
+{'antecedent': {2: 'one+'}, 'bindings': 81, 'consequent': (4, ['zero', '25-49'])}
+{'antecedent': {3: 'one+'}, 'bindings': 69, 'consequent': (5, ['zero', '25-49'])}
+{'antecedent': {3: 'ten+'}, 'bindings': 45, 'consequent': (5, ['zero', '1-24'])}
+{'antecedent': {2: 'ten+'}, 'bindings': 33, 'consequent': (4, ['zero', '1-24'])}
+{'antecedent': {10: '1-24'}, 'bindings': 17, 'consequent': (5, ['zero'])}

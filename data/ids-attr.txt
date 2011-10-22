@@ -1,0 +1,12 @@
+duration zero one+ ten+ hundred+ thousand+ tenThousand+
+protocol_type tcp udp icmp
+count zero one+ ten+ hundred+ thousand+ tenThousand+
+srv_count zero one+ ten+ hundred+ thousand+ tenThousand+
+serror_rate zero 1-24 25-49 50-74 75-99 oneHundred
+srv_serror_rate zero 1-24 25-49 50-74 75-99 oneHundred
+rerror_rate zero 1-24 25-49 50-74 75-99 oneHundred
+srv_rerror_rate zero 1-24 25-49 50-74 75-99 oneHundred
+same_srv_rate zero 1-24 25-49 50-74 75-99 oneHundred
+diff_srv_rate zero 1-24 25-49 50-74 75-99 oneHundred
+srv_diff_host_rate zero 1-24 25-49 50-74 75-99 oneHundred
+class neptune normal

@@ -1,0 +1,12 @@
+red large heavy fluffy yes
+blue large heavy smooth no
+red large heavy slimmy yes
+blue large heavy rough no
+green small heavy fluffy yes
+red large light rough no
+green small heavy slimmy yes
+blue small light smooth no
+yellow small light fluffy yes
+blue medium light rough no
+yellow medium light slimmy yes
+red large light smooth no

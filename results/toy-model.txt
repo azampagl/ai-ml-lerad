@@ -1,0 +1,4 @@
+IF weight = heavy THEN color = green,red
+IF weight = light THEN color = yellow
+IF color = green THEN weight = heavy
+IF size = small THEN weight = heavy

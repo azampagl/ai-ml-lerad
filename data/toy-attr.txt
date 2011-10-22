@@ -1,0 +1,5 @@
+color red green yellow blue
+size large medium small
+weight heavy medium light
+surface smooth rough fluffy slimmy shinny edges
+toy yes no

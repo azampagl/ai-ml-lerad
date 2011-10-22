@@ -1,0 +1,12 @@
+Flagged:			10
+Unclassified:			0
+
+True Positives:			10
+True Negatives:			90
+False Positives:		0
+False Negatives:		0
+Total:				100
+
+Accuracy:			100.0%
+Detection Rate:			100.0%
+False Alarm Rate:		0.0%
