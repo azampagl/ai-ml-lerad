@@ -1,13 +1,3 @@
-============================================
-Python LERAD
-
-Aaron Zampaglione
-CSE 5800 Advanced Topics in CS: Learning/Mining and the Internet, Fall 2011
-Proj 02, LERAD
-============================================
-
-The python implementation is based on:
-
 Learning Rules for Anomaly Detection of Hostile Network Traffic
 Matthew V. Mahoney and Philip K. Chan
 Department of Computer Sciences
